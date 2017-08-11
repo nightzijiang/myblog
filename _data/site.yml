@@ -2,7 +2,7 @@ head:
    favicon: "/assets/favicon/1.png" #  the favicon
    high_res_favicon: "/assets/favicon/1.png" #  the favicon using high quality format
    apple_touch_icon: "/assets/favicon/1.png" # the iOS Home button icon
-   keywords: "" #  the site keywords
+   keywords: "无垠世界" #  the site keywords
 
 uiux:
    android_chrome_color: "#eeeeee" #  the color of the Chrome address bar

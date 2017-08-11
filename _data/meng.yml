@@ -54,6 +54,6 @@ aplayer:
 head_card:
   switch: true
   left_img: "https://i.loli.net/2017/08/11/598db37f621cb.png"
-  left_text: ""
+  left_text: "创造无垠世界"
   right_img: "https://i.loli.net/2017/08/11/598db40083d38.png"
   offset_level: 2
