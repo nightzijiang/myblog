@@ -46,10 +46,10 @@ aplayer:
   switch: true
   button_color: "#4c8cf2"
   music:
-    title: 'Over Drive'
-    author: 'GARNET CROW'
-    url: ''
-    pic: ''
+    title: 'Komm,süsser Tod'
+    author: '鷺巣詩郎'
+    url: '/assets/music/blog.mp3'
+    pic: 'https://i.loli.net/2017/08/11/598daab689ef3.jpg'
 
 head_card:
   switch: true
