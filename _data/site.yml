@@ -1,7 +1,7 @@
 head: 
-   favicon: "http://ouiqfqetu.bkt.clouddn.com/favicon.png" #  the favicon
-   high_res_favicon: "http://ouiqfqetu.bkt.clouddn.com/favicon.png" #  the favicon using high quality format
-   apple_touch_icon: "http://ouiqfqetu.bkt.clouddn.com/favicon.png" # the iOS Home button icon
+   favicon: "/assets/favicon/1.png" #  the favicon
+   high_res_favicon: "/assets/favicon/1.png" #  the favicon using high quality format
+   apple_touch_icon: "/assets/favicon/1.png" # the iOS Home button icon
    keywords: "" #  the site keywords
 
 uiux:
