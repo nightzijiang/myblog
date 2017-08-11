@@ -22,7 +22,7 @@ header: # meng header
 
 background: # Meng background
   switch: true
-  background_img: "https://i.loli.net/2017/08/11/598d98c854f1f.jpg"
+  background_img: "https://i.loli.net/2017/08/11/598db4dd0344e.jpg"
   transparent_header: true
   transparent_footer: false
   text_color: '#000'
@@ -53,7 +53,7 @@ aplayer:
 
 head_card:
   switch: true
-  left_img: "https://ooo.0o0.ooo/2017/06/27/595258d152f92.gif"
+  left_img: "https://i.loli.net/2017/08/11/598db37f621cb.png"
   left_text: ""
-  right_img: "https://i.loli.net/2017/07/24/5975cfa323aa2.png"
+  right_img: "https://i.loli.net/2017/08/11/598db40083d38.png"
   offset_level: 2
