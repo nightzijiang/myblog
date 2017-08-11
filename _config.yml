@@ -1,8 +1,8 @@
-title: "Nanjiang"
+title: "凌烟阁"
 description: ""
 url: 
 baseurl: 
-author: "Lanqq"
+author: "凌烟阁主"
 lang: "zh-CN"
 paginate: 5
 paginate_path: "/blog/page:num/"
