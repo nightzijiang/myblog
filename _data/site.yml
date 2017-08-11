@@ -1,7 +1,7 @@
 head: 
-   favicon: "https://i.loli.net/2017/07/24/5975c7e39b93c.png" #  the favicon
-   high_res_favicon: "https://i.loli.net/2017/07/24/5975c7e39b93c.png" #  the favicon using high quality format
-   apple_touch_icon: "https://i.loli.net/2017/07/24/5975c7e39b93c.png" # the iOS Home button icon
+   favicon: "http://ouiqfqetu.bkt.clouddn.com/favicon.png" #  the favicon
+   high_res_favicon: "http://ouiqfqetu.bkt.clouddn.com/favicon.png" #  the favicon using high quality format
+   apple_touch_icon: "http://ouiqfqetu.bkt.clouddn.com/favicon.png" # the iOS Home button icon
    keywords: "" #  the site keywords
 
 uiux:
@@ -41,7 +41,7 @@ comment:
   disqus_api_key: "" # (Do not use)
   # livere config
   livere_type: 'city'
-  livere_data_uid: 
+  livere_data_uid: 'MTAyMC8yOTM5MC81OTU4'
   # gitment config
   owner: ""
   repo: ""
