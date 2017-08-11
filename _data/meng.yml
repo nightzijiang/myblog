@@ -1,4 +1,4 @@
-title:  # Meng title
+title:  Nnajiang
   switch: true # Meng title switch
   visible: "(*´∇｀*) 被发现啦~" # State is visible text
   hidden:  "(つェ⊂)看不到我~" # State is hidden text
@@ -13,7 +13,7 @@ cursor: # Meng cursor
 console: # Meng console info
   switch: true # Meng console info switch
   theme_info: true # output theme info
-  text: "Copyright © 2017 m0dulo" # text
+  text: "Copyright © 2017 Nanjiang" # text
   color: "#fff" # text color
   background: "#448aff" # background color
 
@@ -48,12 +48,12 @@ aplayer:
   music:
     title: 'Over Drive'
     author: 'GARNET CROW'
-    url: 'http://m10.music.126.net/20170727230734/be8aa2d422a7b5ce3a432ce4112b8c1e/ymusic/1a8e/725c/ff63/b7ae536f5fbae579302d2ea4ba58650b.mp3'
-    pic: 'http://p1.music.126.net/8NmiqgIA1EYGbolJhQzfyA==/896101976637742.jpg?param=130y130'
+    url: ''
+    pic: ''
 
 head_card:
   switch: true
   left_img: "https://ooo.0o0.ooo/2017/06/27/595258d152f92.gif"
-  left_text: "HIDE AND SEEK"
+  left_text: ""
   right_img: "https://i.loli.net/2017/07/24/5975cfa323aa2.png"
   offset_level: 2

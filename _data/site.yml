@@ -2,7 +2,7 @@ head:
    favicon: "https://i.loli.net/2017/07/24/5975c7e39b93c.png" #  the favicon
    high_res_favicon: "https://i.loli.net/2017/07/24/5975c7e39b93c.png" #  the favicon using high quality format
    apple_touch_icon: "https://i.loli.net/2017/07/24/5975c7e39b93c.png" # the iOS Home button icon
-   keywords: "Hide and Seek" #  the site keywords
+   keywords: "" #  the site keywords
 
 uiux:
    android_chrome_color: "#eeeeee" #  the color of the Chrome address bar
@@ -34,14 +34,14 @@ sns_share: # SNS Share Switch
 comment:
   used: "livere" # disqus,livere,gitment
   # disqus config
-  disqus_shortname: "m0dulo" # Your disqus 
+  disqus_shortname: "" # Your disqus 
   disqus_button: true # disqus load button
   disqus_proxy: false # # disqus proxy(Do not use)
   disqus_proxy_url: "" # (Do not use)
   disqus_api_key: "" # (Do not use)
   # livere config
   livere_type: 'city'
-  livere_data_uid: 'MTAyMC8yOTM5MC81OTU4'
+  livere_data_uid: 
   # gitment config
   owner: ""
   repo: ""
@@ -56,7 +56,7 @@ prism:
     - apacheconf
   plugins: 
 
-google_analytics: "UA-81420028-2"  # google analytics code
+google_analytics: ""  # google analytics code
 
 lang: "zh-CN"  # lang
 

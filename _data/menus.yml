@@ -11,7 +11,7 @@
   url: /pages/category.html
   icon: "&#xe53b;"
 - name: ABOUT
-  url: "https://m0dulo.xyz"
+  url: ""
   icon: "&#xe7fd;"
 - name: navSearch
   switch: true
