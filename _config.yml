@@ -1,0 +1,21 @@
+title: "Jekyll-Theme-Exodus"
+description: ""
+url: 
+baseurl: 
+author: ""
+lang: "zh-CN"
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+markdown: kramdown
+theme: jekyll-theme-mdui
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .gitignore
+  - node_modules

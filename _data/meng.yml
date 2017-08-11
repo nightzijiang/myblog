@@ -1,0 +1,59 @@
+title:  # Meng title
+  switch: true # Meng title switch
+  visible: "(*´∇｀*) 被发现啦~" # State is visible text
+  hidden:  "(つェ⊂)看不到我~" # State is hidden text
+  with_default_title: true # with default title
+  reset_time: 1000 # If state is visible , reset default title times(ms)
+
+cursor: # Meng cursor
+  switch: false # Meng cursor switch
+  auto_url: "https://ooo.0o0.ooo/2017/06/12/593ea1901c930.png" # State is auto style
+  pointer_url: "https://ooo.0o0.ooo/2017/06/12/593ea3612fd77.png" # State is pointer style
+
+console: # Meng console info
+  switch: true # Meng console info switch
+  theme_info: true # output theme info
+  text: "Copyright © 2017 m0dulo" # text
+  color: "#fff" # text color
+  background: "#448aff" # background color
+
+header: # meng header
+  switch: true
+
+background: # Meng background
+  switch: true
+  background_img: "https://i.loli.net/2017/07/24/5975d022c542f.jpg"
+  transparent_header: true
+  transparent_footer: false
+  text_color: '#000'
+
+card: # Meng card
+  switch: true
+  background_color: 'rgba(255, 255, 255, 0.8)'
+  card_img_opacity: '1'
+
+live2d: # live2d ,see https://github.com/EYHN/hexo-helper-live2d
+  switch: false
+  model: "/assets/live2d/koharu/koharu.model.json" # model.json path
+  drag: true # is drag ?
+  width: 130 # canvas width
+  height: 190 # canvas height
+  bottom: 100 # canvas bottom
+  leftOrRight: "right" # left or right
+  offset: 10 # offset
+
+aplayer:
+  switch: true
+  button_color: "#4c8cf2"
+  music:
+    title: 'Over Drive'
+    author: 'GARNET CROW'
+    url: 'http://m10.music.126.net/20170727230734/be8aa2d422a7b5ce3a432ce4112b8c1e/ymusic/1a8e/725c/ff63/b7ae536f5fbae579302d2ea4ba58650b.mp3'
+    pic: 'http://p1.music.126.net/8NmiqgIA1EYGbolJhQzfyA==/896101976637742.jpg?param=130y130'
+
+head_card:
+  switch: true
+  left_img: "https://ooo.0o0.ooo/2017/06/27/595258d152f92.gif"
+  left_text: "HIDE AND SEEK"
+  right_img: "https://i.loli.net/2017/07/24/5975cfa323aa2.png"
+  offset_level: 2

@@ -1,0 +1,32 @@
+- name: bilibili
+  url: 
+
+- name: facebook
+  url: 
+
+- name: github
+  url: https://m0dulo.github.io/Azusa/example/
+
+- name: gplus
+  url: https://plus.google.com/109101003998384868162?hl=zh-CN
+
+- name: instagram
+  url: https://www.instagram.com/m0dulo/
+
+- name: linkedin
+  url: 
+
+- name: telegram
+  url: https://telegram.me/m0dulo
+
+- name: tumblr
+  url: 
+
+- name: twitter
+  url: https://twitter.com/m0dulo_
+
+- name: weibo
+  url: https://weibo.com/bourbonny
+
+- name: zhihu
+  url: 

@@ -1,0 +1,17 @@
+- name: HOME
+  url: /
+  icon: home
+- name: EDITOR
+  url: /pages/editor.html
+  icon: "&#xe893;"
+- name: FRIENDS
+  url: /pages/friends.html
+  icon: "&#xe8a3;"
+- name: CATEGORY
+  url: /pages/category.html
+  icon: "&#xe53b;"
+- name: ABOUT
+  url: "https://m0dulo.xyz"
+  icon: "&#xe7fd;"
+- name: navSearch
+  switch: true
