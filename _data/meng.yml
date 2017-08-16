@@ -47,10 +47,10 @@ music_player:
   player: "cplayer" #cplayer or aplayer
   button_color: "#1abc9c"
   music:
-    title: 'Komm,süsser Tod'
-    author: '鷺巣詩郎'
+    title: '潮鳴りII'
+    author: '折戸伸治'
     url: '/assets/music/blog.mp3'
-    pic: 'https://i.loli.net/2017/08/11/598daab689ef3.jpg'
+    pic: 'https://i.loli.net/2017/08/16/5994572086118.jpg'
 
 head_card:
   switch: true
