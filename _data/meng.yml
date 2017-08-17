@@ -49,7 +49,7 @@ music_player:
   music:
     title: '潮鳴りII'
     author: '折戸伸治'
-    url: '/assets/music/blog.mp3'
+    url: '/assets/music/1.mp3'
     pic: 'https://i.loli.net/2017/08/16/5994572086118.jpg'
 
 head_card:
